@@ -9,4 +9,4 @@ In general, I am interested to collaborate in data analayst or research projects
 especially in studying the impact of natural disasters -including Covid-19 pandemic, blockchain for index-based insurance, 
 and using night time lights to analyse socio-economic dynamics as well as building the apps for those research findings.
 # Contact
-You can reach me at adi_github@pituinsights.nz, thanks!!
+You can reach me at adi.github@pituinsights.nz, thanks!!
