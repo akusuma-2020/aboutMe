@@ -1,6 +1,6 @@
 # About Me
 Hi, Adi's here.  
-I am interested in Data Analytics and wish to improve my technical skills by being active in GitHub. 
+I am interested in data analytics and wish to improve my technical skills by being active in GitHub. 
 Everyday is a new day for me to learn more about Python, R, SQL, Power BI, ArcGIS and QGIS.
 # Dashboards and Socio-Economics
 Currently, I am learning about creating interactive dashboards from Pythoon (using Dash Plotly), Power BI, QGIS and Excel.
