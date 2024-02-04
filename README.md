@@ -3,7 +3,7 @@ Hi, Adi's here.
 I'm interested in data analytics and wish to improve my technical skills by being active in GitHub. 
 Everyday is a new day for me to learn more about Python, R, SQL, Power BI, ArcGIS and QGIS.
 
-# 
+# Interest
 I'm currently learning to create interactive dashboards using Python (Dash Plotly), Power BI, QGIS, and Excel. 
 I'm also interested in exploring open-source CGE (Computational General Equilibrium) models in Python for policy analysis. 
 
